@@ -6,6 +6,4 @@ public class FirstClass {
         System.out.println("We have first class");
         System.out.println("Duplicate print method");
     }
-
-
 }
